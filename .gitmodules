@@ -7,3 +7,6 @@
 [submodule "react-quiz-app"]
 	path = react-quiz-app
 	url = https://github.com/k8pai/quiz-app.git
+[submodule "react-tours-app"]
+	path = react-tours-app
+	url = https://github.com/k8pai/tours-app.git
