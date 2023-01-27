@@ -10,3 +10,6 @@
 [submodule "react-tours-app"]
 	path = react-tours-app
 	url = https://github.com/k8pai/tours-app.git
+[submodule "react-restaurant-menu"]
+	path = react-restaurant-menu
+	url = https://github.com/k8pai/Restaurant-menu.git
