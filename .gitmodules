@@ -13,3 +13,6 @@
 [submodule "react-restaurant-menu"]
 	path = react-restaurant-menu
 	url = https://github.com/k8pai/Restaurant-menu.git
+[submodule "react-faq-accordion"]
+	path = react-faq-accordion
+	url = https://github.com/k8pai/FAQ-accordion.git
