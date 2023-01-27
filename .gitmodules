@@ -1,0 +1,3 @@
+[submodule "react-tiktok-clone"]
+	path = react-tiktok-clone
+	url = https://github.com/k8pai/tiktok-UI-clone.git
