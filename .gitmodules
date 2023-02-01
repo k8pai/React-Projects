@@ -16,3 +16,6 @@
 [submodule "react-faq-accordion"]
 	path = react-faq-accordion
 	url = https://github.com/k8pai/FAQ-accordion.git
+[submodule "react-clock"]
+	path = react-clock
+	url = https://github.com/k8pai/clock.git
