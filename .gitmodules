@@ -19,3 +19,6 @@
 [submodule "react-clock"]
 	path = react-clock
 	url = https://github.com/k8pai/clock.git
+[submodule "react-todolist-app"]
+	path = react-todolist-app
+	url = https://github.com/k8pai/todolist-app.git
