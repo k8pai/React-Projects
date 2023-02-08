@@ -22,3 +22,9 @@
 [submodule "react-todolist-app"]
 	path = react-todolist-app
 	url = https://github.com/k8pai/todolist-app.git
+[submodule "react-spacenews-app"]
+	path = react-spacenews-app
+	url = https://github.com/k8pai/spacenews-app.git
+[submodule "react-videogame-api"]
+	path = react-videogame-api
+	url = https://github.com/k8pai/videogame-api.git
