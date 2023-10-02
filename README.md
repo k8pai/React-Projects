@@ -6,12 +6,8 @@ Welcome to the **React Projects** repository! This collection contains a variety
 
 1. [Getting Started](#getting-started)
 2. [Projects](#projects)
-   - [Project 1: ](#project-1-name)
-   - [Project 2: Name](#project-2-name)
-   - ...
+   - [Project 1: videogame-api](#project-1-name)
 3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ---
 
